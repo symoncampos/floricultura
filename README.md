@@ -6,10 +6,10 @@
         <h2> Abaixo mostro umas das nossas flores para vocês.</h2>
             <img src="https://img.freepik.com/fotos-gratis/close-up-de-uma-flor-roxa_181624-25863.jpg?w=2000" alt="area da imagem">
             <h3 align = "center"> Pega a visão sobre os agentes de segurança.</h3>  
-            <img src="https://www.fatosdesconhecidos.com.br/wp-content/uploads/2017/12/terry-crews-bra.jpg" alt= "symon e os mano">
+            <p align ="center" ><img src="https://www.fatosdesconhecidos.com.br/wp-content/uploads/2017/12/terry-crews-bra.jpg" alt= "symon e os mano"></p>
             <br>
             <h4 align ="center" > O Chefe principal da segurança. </h4>
             <br>
-            <img src="https://images.uncyc.org/pt/thumb/f/fd/Xandão_Live.jpg/300px-Xandão_Live.jpg" alt="xandão"> 
+            <p align = "center"><img src="https://images.uncyc.org/pt/thumb/f/fd/Xandão_Live.jpg/300px-Xandão_Live.jpg" alt="xandão"> </p>
 
 </div>
