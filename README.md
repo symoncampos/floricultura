@@ -6,5 +6,5 @@
         <h2> Abaixo mostro umas das nossas flores para vocês.</h2>
             <img src="https://img.freepik.com/fotos-gratis/close-up-de-uma-flor-roxa_181624-25863.jpg?w=2000" alt="area da imagem">
             <h3> Pega a visão sobre os agentes de segurança.</h3>  
-            <img src="https://br.freepik.com/icones-gratis/grupo_913941.htm#&position=35&from_view=search" alt= "symon e os mano">
+            <img src="https://www.fatosdesconhecidos.com.br/wp-content/uploads/2017/12/terry-crews-bra.jpg" alt= "symon e os mano">
 </div>
